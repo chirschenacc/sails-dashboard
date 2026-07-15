@@ -1,3 +1,4 @@
+Chris testing github perms and stuff
 # Seattle Creates — Impact Dashboard
 
 A live impact dashboard for Seattle Creates. Community members fill out a survey at `/survey`, their responses are written directly to Supabase, and the dashboard at `/` reads live data in real time.
